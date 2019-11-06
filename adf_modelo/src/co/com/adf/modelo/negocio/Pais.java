@@ -1,4 +1,4 @@
-package co.com.adf.modelo;
+package co.com.adf.modelo.negocio;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package co.com.adf.modelo;
+package co.com.adf.modelo.negocio;
 
 public class ParNombreValor implements java.io.Serializable {
     @SuppressWarnings("compatibility:4204262760885569642")
